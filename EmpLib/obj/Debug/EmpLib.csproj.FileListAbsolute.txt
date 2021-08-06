@@ -1,0 +1,12 @@
+D:\.NET\MVC\EmpMvcApp\EmpLib\bin\Debug\EmpLib.dll
+D:\.NET\MVC\EmpMvcApp\EmpLib\bin\Debug\EmpLib.pdb
+D:\.NET\MVC\EmpMvcApp\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+D:\.NET\MVC\EmpMvcApp\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+D:\.NET\MVC\EmpMvcApp\EmpLib\obj\Debug\EmpLib.dll
+D:\.NET\MVC\EmpMvcApp\EmpLib\obj\Debug\EmpLib.pdb
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\bin\Debug\EmpLib.dll
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\bin\Debug\EmpLib.pdb
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\obj\Debug\EmpLib.dll
+D:\test\MVC\Entity Framework\EmpMvcApp\EmpMvcApp\EmpLib\obj\Debug\EmpLib.pdb
